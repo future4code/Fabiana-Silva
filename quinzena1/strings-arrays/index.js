@@ -19,7 +19,7 @@
 // const valor = array[i+6]
 // console.log('f. ', valor)
 
-// .......... 2 exercício..........
+// .......... 2 exercício ..........
 
 // const frase = prompt("Digite uma frase")
 
